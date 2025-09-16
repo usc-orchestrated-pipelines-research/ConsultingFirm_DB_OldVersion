@@ -1,0 +1,59 @@
+# Data Generation
+faker
+random_address
+
+# Database
+sqlalchemy
+
+# Randomizer
+scipy
+
+# Unidecode
+unidecode
+
+# Testing
+pytest
+pytest-cov
+
+# Linting
+flake8
+pylint
+
+# Documentation
+sphinx
+sphinx-rtd-theme
+
+# Miscellaneous
+python-dotenv
+openpyxl
+
+# ETL
+snowflake-connector-python
+snowflake-connector-python[pandas]
+pandas
+pandas-gbq
+
+# Environment
+python-dotenv
+
+# Transformers (for GPT-2)
+transformers
+
+# TensorFlow (backend for Transformers)
+tensorflow
+
+# PyTorch (alternative backend for Transformers)
+torch
+
+# Hugging Face Datasets (optional, for additional models)
+datasets
+
+# Date and Time Handling
+python-dateutil
+
+# JSON Handling
+ujson
+
+# Google Cloud API
+google-cloud-storage
+google-cloud-bigquery
